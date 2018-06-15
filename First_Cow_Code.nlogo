@@ -1,6 +1,6 @@
 turtles-own [energy]
 breed [cows cow]
-breed [rabbits rabbit] ;; I'm adding this comment for not particular reason
+breed [rabbits rabbit]
 
 ;; generic start causing the setup to begin again at the beginning
 to setup
